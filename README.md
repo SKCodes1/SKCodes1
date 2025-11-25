@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shamika Konara
+# Hi, I'm Shamika Konara 🤖
 
 Aspiring Data Engineer passionate about building scalable data pipelines, orchestrating end-to-end analytics solutions, and deploying real-time cloud-native architectures. I bring hands-on experience in data analytics, MLOps, IoT, and advanced BI development—ready for impact in modern data engineering teams.
 
@@ -41,7 +41,6 @@ Aspiring Data Engineer passionate about building scalable data pipelines, orches
 - **Smart Squad Selection – Cricket ML Optimization**
   - Advanced analytics & ML for cricket team selection, featuring data scraping, feature engineering, optimization algorithms, and a user-facing web app.
 
-See my pinned repositories for code and technical walkthroughs!
 
 ---
 
@@ -52,13 +51,6 @@ See my pinned repositories for code and technical walkthroughs!
 - IBM Data Science & Data Analyst Professional Certificates
 - Big Data Specializations (UC San Diego)
 - MS PowerBI (IIT Campus)
-
----
-
-## 📊 Stats & Badges
-
-![Shamika's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKCodes1&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKCodes1&layout=compact&theme=react)
 
 ---
 
